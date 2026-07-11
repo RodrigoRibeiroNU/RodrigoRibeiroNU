@@ -24,8 +24,8 @@ Atualmente localizado em Ribeirão Preto, SP, tenho vindo a consolidar os meus c
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RodrigoRibeiroNU&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRibeiroNU&layout=compact&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RodrigoRibeiroNU&show_icons=true&theme=dracula&locale=pt-br"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRibeiroNU&layout=compact&theme=dracula&locale=pt-br"/>
 </p>
 
 ### 📫 Como contactar-me
